@@ -1,0 +1,30 @@
+{
+  "name": "meteor-cordova-update-plugin",
+  "version": "0.0.1",
+  "description": "CordovaUpdate is a plugin to serve files from file-system",
+  "cordova": {
+    "id": "com.meteor.cordova-update",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteor/com.meteor.cordova-update.git"
+  },
+  "keywords": [
+    "meteor",
+    "cordova",
+    "plugin",
+    "update",
+    "phonegap",
+    "build"
+  ],
+  "author": "Meteor Development Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meteor/com.meteor.cordova-update/issues"
+  },
+  "homepage": "https://github.com/meteor/com.meteor.cordova-update#readme"
+}
