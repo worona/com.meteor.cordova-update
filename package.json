@@ -19,7 +19,8 @@
     "plugin",
     "update",
     "phonegap",
-    "build"
+    "build",
+    "ecosystem:cordova"
   ],
   "author": "Meteor Development Group",
   "license": "MIT",
