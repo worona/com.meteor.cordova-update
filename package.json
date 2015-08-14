@@ -1,6 +1,6 @@
 {
   "name": "meteor-cordova-update-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CordovaUpdate is a plugin to serve files from file-system",
   "cordova": {
     "id": "com.meteor.cordova-update",
